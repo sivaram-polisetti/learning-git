@@ -1,0 +1,32 @@
+.team-intro {
+    background-image:url('https://www.nobroker.in/blog/wp-content/uploads/2022/04/Neon-Study-Corner.jpg');
+    background-size: cover;
+    height:100vh;
+
+}
+.intro-card {
+    background-color:white;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+    padding: 14px;
+    text-align:center;
+}
+.main-heading{
+    font-weight: bold;
+    color: #7c0be6;
+
+}
+.para {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.button {
+    border-width: 0px;
+    border-radius: 6px;
+    padding:6px;
+    color:blueviolet;
+    background-color:white;
+    font-family:fantasy;
+    font-size: 17px;
+}
